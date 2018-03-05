@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_server_url">https://parse.buddy.com/parse</string>
+    <string name="parse_app_id">d7b48e14-8d13-4f4b-be39-b50eeeb5e054
+</string>
+    <string name="parse_client_key">Lh2pWkn5YFSdvWvIgYwrpakdcR76EZOh</string>
+
+    <string name="app_name">FYNTUNE</string>
+    <string name="RQSTFTNR">REQUEST</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="Fyt">FYNTUNER</string>
+    <string name="Fn">FYNTUNE</string>
+    <string name="button">GET STARTED</string>
+    <string name="title_activity_my_location">MyLocation</string>
+    <string name="request">FYNTUNER ON THE WAY</string>
+    <string name="TextView">Loading Location...</string>
+    <string name="title_activity_rider_viewactivity">Map</string>
+</resources>

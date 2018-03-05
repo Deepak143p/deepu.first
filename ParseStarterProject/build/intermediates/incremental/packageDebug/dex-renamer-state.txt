@@ -1,0 +1,7 @@
+#Sun Aug 13 12:15:48 PDT 2017
+base.0=C\:\\Users\\FynTune\\AndroidStudioProjects\\FYNTUNE\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_082e24fe2f2ee4167bc0c465482e957279f04b15
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\FynTune\\AndroidStudioProjects\\FYNTUNE\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c09a19a1fcc64feca4c38a7ab3bf581403ec971e\\classes.dex
+base.1=C\:\\Users\\FynTune\\AndroidStudioProjects\\FYNTUNE\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c09a19a1fcc64feca4c38a7ab3bf581403ec971e
+file.0=C\:\\Users\\FynTune\\AndroidStudioProjects\\FYNTUNE\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_082e24fe2f2ee4167bc0c465482e957279f04b15\\classes.dex

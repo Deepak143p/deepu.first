@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\b9fb2e9ae1a9614016d0cdd5fe0ec37da714c191\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_f5b15daabe63fa92cb4c018e6e28f021586121bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d6c759920d30e0e0f7ba1962c87efef949693042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\fb18a4d1135101745e8fab787b4511921a3f83f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_5cf6119f80a47b09820e3896840e5a6cc6eecf5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\1db57b87c339e963477eb19ce2367d765ebf8c94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_e1568eb9a87292c5de5418565eb66015b1e2845b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\3237179af4a651a918331d23088b60d22b6c69c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_543b6298c9bd8d8f240166a0b1db109085ae1b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\5ac5f8be3bb65406b8618fbecf68c893faa2859c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_9d10f08c5259e21df82ef12b701aea8e29658035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\okio-1.13.0_4a6c182d296dba39b76b1c616e0f22ba3a1f54fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\20676bfc77a180551927cc296de22e57ecf42b7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_e7d289d2a0b83e038d0f817facd8914adb288d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\okhttp-3.8.0_cde0d14314702c48fc17359c63b5f5945df0aad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\f62a60a83a6c65b622d3df6a8a4611c9414d6a71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_e6affd67df83f6e8cbb76fdc900d5a93f6e3a88d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\ef86aa442a9804408faad6885ab0d3d8d44b4204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_f21d5d84f866dbd07d645f811c911874d9292082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\8432b2923159b243da015a4440bb1615895dd80e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_964a0f9c5ec3f36814c5607e72ec8673ec508403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_35b7493ce7ae5b436717f6c0086528086886d567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\63b8ef8ee6300726d146bdd79da7984a62d8fa14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_6d60acc6ba20ab676ea4a4f8d67cbc99adbb4875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\1c06cffcc35956227f72868ef590cfed2db4ec6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_3118847883d13c8bd704b63bd38aa63956265f4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1eefba79034da793fed9f2969f1986bfb2694322">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_082e24fe2f2ee4167bc0c465482e957279f04b15\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\57eb9dd2989c04ed08c14918eaf22472c73c6ffc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_c256f4fe3642759957ba3a9cbd3e2d615b7a20fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\Parse\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e4a88e9dccfa3fca2708ae5676968dac857e4488">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_651c445697ef422537996f1f85afbcc1a78f6681.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c09a19a1fcc64feca4c38a7ab3bf581403ec971e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c7f2d64431723e0c52729a975c3f7ad4718bca68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\d1bb1c73833583fc56adbf88bf373831f884899d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_600a28ddaac2ee5d7d8a3bdba2bbd0dc0159e241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FynTune\.android\build-cache\67cd47b1854de4ebbedba273c21bd364e3345139\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\FynTune\AndroidStudioProjects\FYNTUNE\ParseStarterProject\build\intermediates\pre-dexed\debug\classes_8207dd9c781c89d5a3d14ea7950f4ea99fa5a91d.jar" />
+    </item>
+
+</items>
